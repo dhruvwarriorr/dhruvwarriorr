@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/Problems_Solved-600+-00C853?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Problems Solved">
 </a>
 
+<p align="center">
+  <img src="https://cf-readme-stats.vercel.app/api?username=dhruvwarriorr&theme=dark" alt="dhruvwarriorr's Codeforces Stats" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 
 <div>
