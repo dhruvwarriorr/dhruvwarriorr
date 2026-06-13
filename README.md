@@ -37,6 +37,15 @@
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
 ---
 
+### 📊 Codeforces Metrics
+
+<a href="https://codeforces.com/profile/dhruvwarriorr">
+  <img src="https://img.shields.io/badge/Codeforces_Rating-Specialist_(1451)-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Specialist">
+</a>
+<a href="https://codeforces.com/profile/dhruvwarriorr">
+  <img src="https://img.shields.io/badge/Problems_Solved-600+-00C853?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Problems Solved">
+</a>
+
 ### 🛠️ Tech Stack & Tools
 
 <div>
