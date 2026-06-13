@@ -34,11 +34,7 @@
 ### 📊 Real-Time CP Metrics
 
 #### Codeforces Activity
-[![Codeforces Stats](https://cf-cards.vercel.app/?user=dhruvwarriorr)](https://codeforces.com/profile/dhruvwarriorr)
-
-#### Codeforces Submission Heatmap
-[![Codeforces Heatmap](https://codeforces-readme-stats.vercel.app/api/card?user=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
-
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
 ---
 
 ### 🛠️ Tech Stack & Tools
