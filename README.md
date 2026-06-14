@@ -1,6 +1,6 @@
 <h1 align="center">Dhruv Kumar</h1> 
 
-<p align="center"><b>Competitive Programmer | B.Tech Computer Engineering @ KJSCE | Problem Solver</b></p>
+<p align="center"><b>Full Stack Engineer | Problem Solver</b></p>
 
 <div align="left">
   <a href="https://dhruvwarriorr.xyz"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
@@ -17,7 +17,7 @@
 
 ### 👤 About Me
 - **B.Tech Computer Engineering** student at K.J. Somaiya School of Engineering
-- **First-Year Tech Representative** at KJSSE CodeCell
+- **First Year Tech Representative** at KJSSE CodeCell
 - **Competitive Programmer** passionate about algorithmic problem solving
 
 ---
@@ -44,10 +44,11 @@
 ### 📊 CodeForces Metrics
 
 #### Codeforces Activity
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight&&bg_color=0d1117&font=Space+Mono&&card_color=0d1117&)](https://codeforces.com/profile/dhruvwarriorr)
 <hr size="3">
 
-### Tech Stack
+
+### 🛠 Tech Stack
 
 #### Languages
 <div align="left">
