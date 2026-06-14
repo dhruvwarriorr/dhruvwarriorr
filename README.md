@@ -1,6 +1,6 @@
 <h1 align="center">Dhruv Kumar</h1> 
 
-**Competitive Programmer | B.Tech Computer Engineering @ KJSCE | Problem Solver**
+<p align="center"><b>Competitive Programmer | B.Tech Computer Engineering @ KJSCE | Problem Solver</b></p>
 
 <div align="left">
   <a href="https://dhruvwarriorr.xyz"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
@@ -32,22 +32,20 @@
 ### 📊 Competitive Programming Metrics
 
 <a href="https://codeforces.com/profile/dhruvwarriorr" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%20500%2B%20Solved-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
-</a>
-
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
+</a><br/>
 <a href="https://leetcode.com/dhruvwarriorr" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
-</a>
-
+</a><br/>
 <a href="https://www.codechef.com/users/dhruvwarriorr" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85%E2%98%85%E2%98%85-4b2a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
 </a>
 
-### 📊 Real-Time CodeForces Metrics
+### 📊 CodeForces Metrics
 
 #### Codeforces Activity
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
----
+<hr size="3">
 
 ### Tech Stack
 
