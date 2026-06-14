@@ -1,4 +1,4 @@
-# Hi, I'm Dhruv Kumar 👋
+<h1 align="center">Dhruv Kumar</h1> 
 
 **Competitive Programmer | B.Tech Computer Engineering @ KJSCE | Problem Solver**
 
@@ -17,39 +17,37 @@
 
 ### 👤 About Me
 - **B.Tech Computer Engineering** student at K.J. Somaiya School of Engineering
-- **First-Year Tech Representative** at KJSCE CodeCell
+- **First-Year Tech Representative** at KJSSE CodeCell
 - **Competitive Programmer** passionate about algorithmic problem solving
 
 ---
 
-### 🏆 Competitive Programming & Achievements
-- 🌟 **Specialist on Codeforces** (Max Rating: 1451)
-- ⭐ **3-Star on CodeChef** (Max Rating: 1677)
-- 🧩 **900+ Algorithmic Problems Solved** across major platforms:
-  - **600+** on Codeforces (Implementation, Greedy, Binary Search, DP, Graphs)
-  - **200+** on CodeChef, CSES, and AtCoder
-  - **100+** on LeetCode
-- 🥇 **FY Winner** of CodeCell's CodeSpree 2025
-- 🥈 **1st Runner up** of SPIT CodeBuster 2.0 & FY Runnerup at SPIT CP++ Tournament
-- 🏅 **4th Place** at SAKEC Code of Duty S5 & Crackathon 2025 Finalist
+### 🏆 Achievements
+
+- 🥇 **First Year Winner** of CodeSpree 2025
+- 🥈 **Runner up** of SPIT CodeBuster 2.0 
+- 🏅 **4th Place** at SAKEC Code of Duty S5 
 
 ---
+### 📊 Competitive Programming Metrics
 
-### 📊 Real-Time CP Metrics
+<a href="https://codeforces.com/profile/dhruvwarriorr" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%20500%2B%20Solved-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
+</a>
+
+<a href="https://leetcode.com/dhruvwarriorr" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
+</a>
+
+<a href="https://www.codechef.com/users/dhruvwarriorr" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85%E2%98%85%E2%98%85-4b2a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
+</a>
+
+### 📊 Real-Time CodeForces Metrics
 
 #### Codeforces Activity
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=dhruvwarriorr&theme=tokyonight)](https://codeforces.com/profile/dhruvwarriorr)
 ---
-
-### 📊 Codeforces Metrics
-
-<a href="https://codeforces.com/profile/dhruvwarriorr">
-  <img src="https://img.shields.io/badge/Codeforces_Rating-Specialist_(1451)-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Specialist">
-</a>
-<a href="https://codeforces.com/profile/dhruvwarriorr">
-  <img src="https://img.shields.io/badge/Problems_Solved-600+-00C853?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Problems Solved">
-</a>
-
 
 ### Tech Stack
 
@@ -59,13 +57,20 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br/>
+#### Frameworks & Libraries
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
 
-#### DevOps & Tools
+#### Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -74,8 +79,14 @@
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvwarriorr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvwarriorr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 📈 GitHub Stats
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhruvwarriorr&show_icons=true&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117&ring_color=2ecc71&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvwarriorr&layout=compact&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
