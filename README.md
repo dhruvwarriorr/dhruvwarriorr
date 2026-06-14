@@ -6,15 +6,19 @@
   <a href="https://dhruvwarriorr.xyz"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   <a href="mailto:dhruvkumar31712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/dhruvwarriorr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/dhruvwarriorr"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://codeforces.com/profile/dhruvwarriorr"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1hHvQOQ-qwpgcs8swYKx5ebGmK96UM6rf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=dhruvwarriorr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </div>
+
 
 ---
 
 ### 👤 About Me
-- 🎓 **B.Tech Computer Engineering** at K.J. Somaiya School of Engineering (Aug 2025 - May 2029)
-- 💻 **FY Representative Member** in KJSCE CodeCell Tech Team, where I hosted the "Intro to CP" event for 100+ attendees.
-- 🚀 Actively interested in **IoT development (ESP32), Backend (Java Spring Boot), and Game Development**.
-- 🧠 Deeply passionate about Algorithmic Problem Solving, Data Structures, and Graph Algorithms.
+- **B.Tech Computer Engineering** student at K.J. Somaiya School of Engineering
+- **First-Year Tech Representative** at KJSCE CodeCell
+- **Competitive Programmer** passionate about algorithmic problem solving
 
 ---
 
@@ -47,18 +51,22 @@
 </a>
 
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
-<div>
+#### Languages
+<div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
-<br>
-<div>
+
+<br/>
+
+#### DevOps & Tools
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
