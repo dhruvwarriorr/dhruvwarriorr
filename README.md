@@ -1,8 +1,8 @@
 <h1 align="center">Dhruv Kumar</h1> 
 
-<p align="center"><b>Full Stack Engineer | Problem Solver</b></p>
+<p align="center"><b>Problem Solver</b></p>
 
-<div align="left">
+<div align="center">
   <a href="https://dhruvwarriorr.xyz"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   <a href="mailto:dhruvkumar31712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/dhruvwarriorr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
