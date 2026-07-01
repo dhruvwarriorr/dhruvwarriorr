@@ -32,7 +32,7 @@
 ### 📊 Competitive Programming Metrics
 
 <a href="https://codeforces.com/profile/dhruvwarriorr" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Specialist-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
+  <img src="https://img.shields.io/badge/Codeforces-Expert-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Expert" />
 </a><br/>
 <a href="https://leetcode.com/dhruvwarriorr" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
