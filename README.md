@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Codeforces-Expert-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Expert" />
 </a><br/>
 <a href="https://leetcode.com/dhruvwarriorr" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" />
 </a><br/>
 <a href="https://www.codechef.com/users/dhruvwarriorr" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85%E2%98%85%E2%98%85-4b2a1a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
