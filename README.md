@@ -17,16 +17,17 @@
 
 ### 👤 About Me
 - **B.Tech Computer Engineering** student at K.J. Somaiya School of Engineering
-- **First Year Tech Representative** at KJSSE CodeCell
+- **Tech Team** at KJSSE CodeCell
 - **Competitive Programmer** passionate about algorithmic problem solving
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **First Year Winner** of CodeSpree 2025
-- 🥈 **Runner up** of SPIT CodeBuster 2.0 
-- 🏅 **4th Place** at SAKEC Code of Duty S5 
+- 🥇 **Winner** - Gemini Hackday 2026
+- 🥇 **FY Winner** - CodeSpree 2025
+- 🥈 **Runner up** - SPIT CodeBuster 2.0 
+
 
 ---
 ### 📊 Competitive Programming Metrics
