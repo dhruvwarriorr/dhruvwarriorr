@@ -3,12 +3,12 @@
 <p align="center"><b>Problem Solver</b></p>
 
 <div align="center">
-  <a href="https://dhruvwarriorr.xyz"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+ 
   <a href="mailto:dhruvkumar31712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/dhruvwarriorr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/dhruvwarriorr"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codeforces.com/profile/dhruvwarriorr"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1hHvQOQ-qwpgcs8swYKx5ebGmK96UM6rf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  
   <img src="https://komarev.com/ghpvc/?username=dhruvwarriorr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </div>
 
