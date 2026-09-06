@@ -26,7 +26,7 @@
 
 - 🥇 **Winner** - Gemini Hackday 2026
 - 🥇 **FY Winner** - CodeSpree 2025
-- 🥈 **Runner up** - SPIT CodeBuster 2.0 
+- 🥈 **Runner up** - CodeBuster 2.0 
 
 
 ---
