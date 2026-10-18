@@ -228,22 +228,7 @@ def hero(d):
     out.append('</g>')
 
     out.append(mono(30, 40, [('~/', C['dim']), ('dhruvwarriorr', C['muted'])], 12))
-    # radar locator: a sweeping arm over Mumbai, with its coordinates
-    rx, ry, rr = W - 200, 38, 13
-    sweep_k = fx.anim('to{transform:rotate(360deg)}', 7, 'linear')
-    a0, a1 = math.radians(-90), math.radians(-40)
-    wedge = (f'M{rx} {ry}L{rx + rr * math.cos(a0):.2f} {ry + rr * math.sin(a0):.2f}'
-             f'A{rr} {rr} 0 0 1 {rx + rr * math.cos(a1):.2f} {ry + rr * math.sin(a1):.2f}Z')
-    out.append(f'<circle cx="{rx}" cy="{ry}" r="{rr}" fill="#07140d" stroke="#1d4a2e"/>'
-               f'<circle cx="{rx}" cy="{ry}" r="{rr / 2}" stroke="#163a24"/>'
-               f'<path d="M{rx - rr} {ry}H{rx + rr}M{rx} {ry - rr}V{ry + rr}" stroke="#163a24"/>'
-               f'<g class="{sweep_k}" style="transform-box:view-box;transform-origin:{rx}px {ry}px">'
-               f'<path d="{wedge}" fill="{C["g4"]}" fill-opacity=".28"/>'
-               f'<path d="M{rx} {ry}L{rx + rr * math.cos(a1):.2f} {ry + rr * math.sin(a1):.2f}" stroke="{C["g4"]}" stroke-width="1.4"/></g>'
-               f'<circle cx="{rx + 5}" cy="{ry - 4}" r="2" fill="{C["g4"]}"/>'
-               f'<circle cx="{rx + 5}" cy="{ry - 4}" r="2" fill="{C["g4"]}" class="fb ping"/>')
-    out.append(mono(W - 30, 35, [('MUMBAI, IN', C['text'], 700)], 12, 'end'))
-    out.append(mono(W - 30, 50, [('19.07°N 72.88°E', C['muted']), ('  UTC+5:30', C['g4'])], 10, 'end'))
+    out.append(mono(W - 30, 40, [('MUMBAI, IN', C['text'], 700)], 12, 'end'))
     tag = fx.anim('from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}', .8, 'ease-out', 1.6, 1)
     out.append(sans(W / 2, 222, 'PROBLEM SOLVER',
                     12.5, C['muted'], 600, 'middle', tag, ls=3))
