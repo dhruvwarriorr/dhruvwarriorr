@@ -1,0 +1,26 @@
+{
+ "codeforces": {
+  "rating": 1665,
+  "rank": "expert"
+ },
+ "leetcode": {
+  "rating": 1914,
+  "badge": "Knight"
+ },
+ "codechef": {
+  "rating": 1806,
+  "stars": 4
+ },
+ "github": {
+  "total": 582,
+  "repo_stars": {
+   "DSA-Notes": 4,
+   "dhruvwarriorr": 0,
+   "AlgoMemtor": 2,
+   "floatchat": 0,
+   "aamchi-boli": 0,
+   "Nautiq": 0,
+   "DueCare": 1
+  }
+ }
+}

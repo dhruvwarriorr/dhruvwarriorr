@@ -1,0 +1,41 @@
+name: Animate profile
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/**]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: animate-profile
+  cancel-in-progress: false
+
+jobs:
+  # Re-render the README images with fresh numbers and commit them.
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Render animated SVGs
+        run: python scripts/render.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets data
+          git diff --cached --quiet || git commit -m "chore: refresh animated profile"
+          git pull --rebase && git push
+
